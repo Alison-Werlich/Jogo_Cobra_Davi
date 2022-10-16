@@ -42,7 +42,7 @@ velocidade = 10
 x_comida = randint(40, 600)
 y_comida = randint(40, 440)
 pontos = 0
-tamanho_cobra = 30
+tamanho_cobra = 5
 
 lista_rastro = list()
 morreu = False
